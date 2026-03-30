@@ -132,6 +132,9 @@ body {
     opacity: 0; /* Animated in JS */
 }
 
+.gap-3{
+    gap: 1rem;
+}
 
 
 /* Animations (Framer Motion feel) */
